@@ -1,0 +1,41 @@
+{"datetime": "2022-07-23T20:20:54.954526Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2022-07-23T20:20:54.959878Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 3, "total_match_time": 600, "team_name_yellow": "moyashirobo", "team_name_blue": "Reset", "match_id": "sim22_2_02", "halftime": 2}}
+{"datetime": "2022-07-23T20:21:58.863620Z", "matchtime": 16.992000000020766, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-23T20:22:01.046284Z", "matchtime": 17.504000000021392, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-07-23T20:23:57.563124Z", "matchtime": 47.13600000005761, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-23T20:25:46.222512Z", "matchtime": 69.6320000000851, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-07-23T20:25:52.796121Z", "matchtime": 70.78400000008651, "event": "GOAL", "payload": {"team_name": "Reset", "score_yellow": 0, "score_blue": 4}}
+{"datetime": "2022-07-23T20:26:10.429212Z", "matchtime": 73.79200000009018, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-07-23T20:28:46.902701Z", "matchtime": 101.05600000010025, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-23T20:30:23.735259Z", "matchtime": 117.85600000009094, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-23T20:33:32.427482Z", "matchtime": 150.33600000007294, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-23T20:35:17.757868Z", "matchtime": 168.256000000063, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-23T20:35:36.560525Z", "matchtime": 171.5200000000612, "event": "GOAL", "payload": {"team_name": "Reset", "score_yellow": 0, "score_blue": 5}}
+{"datetime": "2022-07-23T20:35:53.971295Z", "matchtime": 174.52800000005954, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-07-23T20:38:42.562967Z", "matchtime": 203.48800000004348, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-23T20:40:56.170373Z", "matchtime": 226.4000000000308, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-23T20:40:57.285372Z", "matchtime": 226.62400000003066, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-07-23T20:43:54.110245Z", "matchtime": 257.2800000000137, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-23T20:48:03.626886Z", "matchtime": 300.3199999999898, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-23T20:49:37.027362Z", "matchtime": 316.35199999998093, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-23T20:51:27.196647Z", "matchtime": 335.3599999999704, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-23T20:53:15.070244Z", "matchtime": 354.0159999999689, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-23T20:53:39.713503Z", "matchtime": 358.3039999999704, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-07-23T20:55:03.137197Z", "matchtime": 372.6719999999752, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-07-23T20:55:09.809617Z", "matchtime": 373.82399999997557, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-23T20:57:53.607385Z", "matchtime": 401.983999999985, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-23T21:00:09.393040Z", "matchtime": 425.31199999999274, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-23T21:02:26.223392Z", "matchtime": 448.8640000000006, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-07-23T21:02:41.462120Z", "matchtime": 451.4560000000015, "event": "GOAL", "payload": {"team_name": "moyashirobo", "score_yellow": 1, "score_blue": 5}}
+{"datetime": "2022-07-23T21:02:59.379114Z", "matchtime": 454.4640000000025, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2022-07-23T21:04:27.480742Z", "matchtime": 469.5040000000075, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-07-23T21:04:27.481571Z", "matchtime": 469.5040000000075, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-07-23T21:06:01.677978Z", "matchtime": 485.5360000000069, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-23T21:07:30.686716Z", "matchtime": 500.76800000000515, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-23T21:07:55.811376Z", "matchtime": 505.12000000000467, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-07-23T21:09:00.794839Z", "matchtime": 516.0960000000035, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-23T21:09:20.069893Z", "matchtime": 519.4560000000031, "event": "GOAL", "payload": {"team_name": "Reset", "score_yellow": 1, "score_blue": 6}}
+{"datetime": "2022-07-23T21:09:37.972540Z", "matchtime": 522.4640000000028, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-07-23T21:10:55.744777Z", "matchtime": 535.8720000000013, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-23T21:12:28.729768Z", "matchtime": 551.9039999999995, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-23T21:17:08.344876Z", "matchtime": 600.0319999999978, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 1, "score_blue": 6, "team_name_yellow": "moyashirobo", "team_name_blue": "Reset"}}
