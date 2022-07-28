@@ -1,0 +1,93 @@
+{"datetime": "2022-07-27T07:03:16.111043Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2022-07-27T07:03:16.118495Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "F6", "team_name_blue": "Helli5", "match_id": "sim22_3_06", "halftime": 1}}
+{"datetime": "2022-07-27T07:03:25.237702Z", "matchtime": 3.008000000003676, "event": "GOAL", "payload": {"team_name": "Helli5", "score_yellow": 0, "score_blue": 1}}
+{"datetime": "2022-07-27T07:03:36.975903Z", "matchtime": 6.016000000007352, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-07-27T07:04:11.141199Z", "matchtime": 15.04000000001838, "event": "GOAL", "payload": {"team_name": "Helli5", "score_yellow": 0, "score_blue": 2}}
+{"datetime": "2022-07-27T07:04:22.514029Z", "matchtime": 18.048000000022057, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-07-27T07:04:42.675950Z", "matchtime": 23.232000000028393, "event": "GOAL", "payload": {"team_name": "Helli5", "score_yellow": 0, "score_blue": 3}}
+{"datetime": "2022-07-27T07:04:55.187241Z", "matchtime": 26.24000000003207, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-07-27T07:06:41.314108Z", "matchtime": 45.2480000000553, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-07-27T07:06:47.846681Z", "matchtime": 46.432000000056746, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-07-27T07:07:06.838398Z", "matchtime": 49.696000000060735, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-07-27T07:08:22.802946Z", "matchtime": 62.976000000076965, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-07-27T07:08:22.813217Z", "matchtime": 63.008000000077004, "event": "GOAL", "payload": {"team_name": "Helli5", "score_yellow": 0, "score_blue": 4}}
+{"datetime": "2022-07-27T07:08:40.385550Z", "matchtime": 66.01600000008068, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-07-27T07:10:47.668605Z", "matchtime": 88.38400000010728, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-07-27T07:10:50.955270Z", "matchtime": 88.92800000010698, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-07-27T07:10:52.798902Z", "matchtime": 89.28000000010678, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-27T07:11:00.111484Z", "matchtime": 90.56000000010607, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-07-27T07:11:25.367195Z", "matchtime": 94.97600000010362, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-07-27T07:12:27.290331Z", "matchtime": 105.60000000009774, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-07-27T07:13:31.339432Z", "matchtime": 116.6720000000916, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-07-27T07:14:07.584495Z", "matchtime": 123.00800000008809, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-07-27T07:14:22.227481Z", "matchtime": 125.56800000008667, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-07-27T07:15:02.514663Z", "matchtime": 132.64000000008275, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-07-27T07:15:39.909938Z", "matchtime": 139.13600000007915, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-07-27T07:16:09.168369Z", "matchtime": 144.19200000007635, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-07-27T07:17:14.425812Z", "matchtime": 155.58400000007003, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-07-27T07:17:23.570433Z", "matchtime": 157.15200000006917, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-27T07:17:51.756694Z", "matchtime": 162.01600000006647, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-07-27T07:18:53.749015Z", "matchtime": 172.89600000006044, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-07-27T07:18:58.129603Z", "matchtime": 173.66400000006, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-07-27T07:19:55.829316Z", "matchtime": 183.74400000005443, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-27T07:20:26.813381Z", "matchtime": 189.1840000000514, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-07-27T07:20:33.721558Z", "matchtime": 190.36800000005076, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-07-27T07:20:35.919333Z", "matchtime": 190.78400000005053, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-07-27T07:21:52.528939Z", "matchtime": 204.22400000004308, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-07-27T07:22:23.894050Z", "matchtime": 209.69600000004004, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-07-27T07:23:19.742400Z", "matchtime": 219.48800000003462, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-07-27T07:23:41.994914Z", "matchtime": 223.36000000003247, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-07-27T07:25:41.161384Z", "matchtime": 244.2240000000209, "event": "GOAL", "payload": {"team_name": "Helli5", "score_yellow": 0, "score_blue": 5}}
+{"datetime": "2022-07-27T07:25:58.424222Z", "matchtime": 247.23200000001924, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-07-27T07:27:48.407642Z", "matchtime": 266.4320000000086, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-07-27T07:28:06.735886Z", "matchtime": 269.60000000000684, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-07-27T07:28:08.555131Z", "matchtime": 269.92000000000667, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-07-27T07:28:15.154971Z", "matchtime": 271.072000000006, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-07-27T07:29:39.990151Z", "matchtime": 285.9199999999978, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-07-27T07:30:18.757569Z", "matchtime": 292.67199999999406, "event": "GOAL", "payload": {"team_name": "Helli5", "score_yellow": 0, "score_blue": 6}}
+{"datetime": "2022-07-27T07:30:36.051717Z", "matchtime": 295.6799999999924, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-07-27T07:31:42.340763Z", "matchtime": 307.199999999986, "event": "GOAL", "payload": {"team_name": "Helli5", "score_yellow": 0, "score_blue": 7}}
+{"datetime": "2022-07-27T07:31:59.638148Z", "matchtime": 310.20799999998434, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-07-27T07:32:28.217000Z", "matchtime": 315.1359999999816, "event": "GOAL", "payload": {"team_name": "Helli5", "score_yellow": 0, "score_blue": 8}}
+{"datetime": "2022-07-27T07:32:45.557015Z", "matchtime": 318.14399999997994, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-07-27T07:34:48.749784Z", "matchtime": 339.4879999999681, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-07-27T07:35:05.256857Z", "matchtime": 342.3679999999665, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-07-27T07:36:47.120240Z", "matchtime": 360.095999999971, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-07-27T07:37:03.239699Z", "matchtime": 362.8799999999719, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-07-27T07:37:12.016398Z", "matchtime": 364.3839999999724, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-07-27T07:37:13.110813Z", "matchtime": 364.5759999999725, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-07-27T07:38:34.804525Z", "matchtime": 378.81599999997724, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-07-27T07:38:49.464818Z", "matchtime": 381.3439999999781, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-07-27T07:40:00.619195Z", "matchtime": 393.6959999999822, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-07-27T07:40:08.327592Z", "matchtime": 395.00799999998264, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-07-27T07:40:27.725989Z", "matchtime": 398.3679999999838, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-07-27T07:41:36.055971Z", "matchtime": 410.33599999998773, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-07-27T07:41:48.469271Z", "matchtime": 412.4799999999885, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-07-27T07:42:02.724028Z", "matchtime": 414.9439999999893, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-07-27T07:42:50.181762Z", "matchtime": 423.26399999999205, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-27T07:43:01.660167Z", "matchtime": 425.1839999999927, "event": "GOAL", "payload": {"team_name": "Helli5", "score_yellow": 0, "score_blue": 9}}
+{"datetime": "2022-07-27T07:43:19.309679Z", "matchtime": 428.19199999999375, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-07-27T07:43:48.851660Z", "matchtime": 433.37599999999543, "event": "GOAL", "payload": {"team_name": "Helli5", "score_yellow": 0, "score_blue": 10}}
+{"datetime": "2022-07-27T07:44:06.488744Z", "matchtime": 436.3839999999965, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-07-27T07:44:36.000729Z", "matchtime": 441.5359999999982, "event": "GOAL", "payload": {"team_name": "Helli5", "score_yellow": 0, "score_blue": 11}}
+{"datetime": "2022-07-27T07:44:53.229790Z", "matchtime": 444.5439999999992, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-07-27T07:46:18.980923Z", "matchtime": 459.6160000000042, "event": "GOAL", "payload": {"team_name": "F6", "score_yellow": 1, "score_blue": 11}}
+{"datetime": "2022-07-27T07:46:36.218072Z", "matchtime": 462.62400000000525, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2022-07-27T07:48:25.690224Z", "matchtime": 481.76000000000727, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-07-27T07:48:28.597702Z", "matchtime": 482.2400000000072, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-07-27T07:48:32.966454Z", "matchtime": 483.00800000000714, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-07-27T07:49:51.674031Z", "matchtime": 496.80000000000564, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-07-27T07:49:58.624602Z", "matchtime": 498.04800000000546, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-07-27T07:50:28.943352Z", "matchtime": 503.3600000000049, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-07-27T07:51:17.495832Z", "matchtime": 511.84000000000395, "event": "GOAL", "payload": {"team_name": "Helli5", "score_yellow": 1, "score_blue": 12}}
+{"datetime": "2022-07-27T07:51:34.743556Z", "matchtime": 514.8480000000036, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-07-27T07:54:00.458098Z", "matchtime": 540.4480000000008, "event": "GOAL", "payload": {"team_name": "Helli5", "score_yellow": 1, "score_blue": 13}}
+{"datetime": "2022-07-27T07:54:17.703836Z", "matchtime": 543.4560000000005, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-07-27T07:55:45.443171Z", "matchtime": 558.8159999999988, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-07-27T07:55:51.280723Z", "matchtime": 559.8399999999987, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-27T07:56:16.868913Z", "matchtime": 564.3199999999981, "event": "GOAL", "payload": {"team_name": "Helli5", "score_yellow": 1, "score_blue": 14}}
+{"datetime": "2022-07-27T07:56:34.073224Z", "matchtime": 567.3279999999978, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-07-27T07:58:59.824588Z", "matchtime": 592.9279999999978, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-07-27T07:59:14.029098Z", "matchtime": 595.3919999999978, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-07-27T07:59:30.434889Z", "matchtime": 598.3039999999978, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-07-27T07:59:40.277822Z", "matchtime": 600.0319999999978, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 1, "score_blue": 14, "team_name_yellow": "F6", "team_name_blue": "Helli5"}}
