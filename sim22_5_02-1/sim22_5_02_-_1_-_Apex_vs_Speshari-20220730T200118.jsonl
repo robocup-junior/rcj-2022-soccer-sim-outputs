@@ -1,0 +1,29 @@
+{"datetime": "2022-07-30T20:01:20.416016Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-07-30T20:01:20.423017Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "Speshari", "team_name_blue": "Apex", "match_id": "sim22_5_02", "halftime": 1}}
+{"datetime": "2022-07-30T20:01:49.732284Z", "matchtime": 8.064000000009855, "event": "GOAL", "payload": {"team_name": "Apex", "score_yellow": 0, "score_blue": 1}}
+{"datetime": "2022-07-30T20:02:01.060755Z", "matchtime": 11.072000000013531, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-07-30T20:04:08.943091Z", "matchtime": 44.19200000005401, "event": "GOAL", "payload": {"team_name": "Apex", "score_yellow": 0, "score_blue": 2}}
+{"datetime": "2022-07-30T20:04:20.728958Z", "matchtime": 47.200000000057685, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-07-30T20:05:27.034219Z", "matchtime": 60.800000000074306, "event": "GOAL", "payload": {"team_name": "Apex", "score_yellow": 0, "score_blue": 3}}
+{"datetime": "2022-07-30T20:05:44.174326Z", "matchtime": 63.80800000007798, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-07-30T20:07:54.844544Z", "matchtime": 86.88000000010618, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-07-30T20:12:58.563166Z", "matchtime": 139.9680000000787, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-30T20:19:10.633110Z", "matchtime": 204.48000000004293, "event": "GOAL", "payload": {"team_name": "Apex", "score_yellow": 0, "score_blue": 4}}
+{"datetime": "2022-07-30T20:19:27.980197Z", "matchtime": 207.48800000004127, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-07-30T20:20:56.886958Z", "matchtime": 222.84800000003275, "event": "GOAL", "payload": {"team_name": "Apex", "score_yellow": 0, "score_blue": 5}}
+{"datetime": "2022-07-30T20:21:14.548548Z", "matchtime": 225.8560000000311, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-07-30T20:30:48.734377Z", "matchtime": 325.34399999997595, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-07-30T20:31:48.705062Z", "matchtime": 335.7119999999702, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-07-30T20:31:51.278590Z", "matchtime": 336.15999999996995, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-30T20:35:01.347418Z", "matchtime": 368.92799999997396, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-30T20:37:23.122570Z", "matchtime": 393.4079999999821, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-30T20:42:33.182098Z", "matchtime": 447.16800000000006, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B1"}}
+{"datetime": "2022-07-30T20:42:37.944174Z", "matchtime": 447.9680000000003, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-30T20:47:02.454606Z", "matchtime": 493.66400000000596, "event": "GOAL", "payload": {"team_name": "Apex", "score_yellow": 0, "score_blue": 6}}
+{"datetime": "2022-07-30T20:47:19.805055Z", "matchtime": 496.6720000000056, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-07-30T20:49:48.708799Z", "matchtime": 522.4320000000027, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-30T20:54:24.225050Z", "matchtime": 570.3359999999977, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-07-30T20:56:43.806650Z", "matchtime": 594.6879999999978, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-07-30T20:56:57.375954Z", "matchtime": 597.0239999999978, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B2"}}
+{"datetime": "2022-07-30T20:57:06.554822Z", "matchtime": 598.5919999999978, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "B3"}}
+{"datetime": "2022-07-30T20:57:14.982439Z", "matchtime": 600.0319999999978, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 0, "score_blue": 6, "team_name_yellow": "Speshari", "team_name_blue": "Apex"}}

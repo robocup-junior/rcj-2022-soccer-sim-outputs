@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>RCJ Soccer Sim</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-wEmeIV1mKuiNpC+IOBjI7aAzPcEZeedi5yW5f2yOq55WWLwNGmvvx4Um1vskeMj0" crossorigin="anonymous">
+    <style>
+      html, body {
+        padding:0;
+        height: 100%;
+      }
+      webots-view {
+        height: calc(100% - 250px);
+        width: 100%;
+        display: block;
+      }
+      .long{
+        height: 100%
+      }
+      #game-events {
+        height: 250px;
+        overflow-x: hidden;
+        overflow-y: auto;
+      }
+    </style>
+    <script src="https://www.cyberbotics.com/jquery/1.11.3/jquery.min.js" ></script>
+    <script type="module" src="https://cyberbotics.com/wwi/R2022a/WebotsView.js"></script>
+    <script>
+      var max_time = 0;
+      var view;
+      var animation;
+
+      function event_click(ev, secs) {
+        secs = parseInt(secs);
+        var play_btn = document.getElementById('play-button');
+        var is_running = animation._gui === "real_time";
+        if (is_running) {
+            play_btn.click();
+        }
+        var to_step = secs*31;
+        animation._updateAnimationState(to_step);
+        animation._timeSlider.setValue(Math.min((secs / max_time) * 100, 100));
+        ev.stopPropagation();
+        if (is_running) {
+            play_btn.click();
+        } else {
+          var minutes = Math.floor(secs / 60);
+          var seconds = secs % 60;
+          $(".current-time")[0].textContent = minutes.toString().padStart(2, "0") + ":" + seconds.toString().padStart(2, "0");
+        }
+      }
+
+      function init() {
+        var webots_view = $("webots-view")[0];
+        if (webots_view._view === undefined || webots_view._view.animation === undefined) {
+          setTimeout(init, 100);
+          return;
+        }
+        animation = webots_view._view.animation;
+
+        $.getJSON("sim22_5_01_-_2_-_A.P.reflog.json", function(data) {
+          var html = "";
+          for (var i = 0; i < data.length; i++) {
+            var item = data[i];
+            var time = new Date(item.matchtime * 1000).toISOString().substr(14, 5)
+            var message = '';
+
+            if (item.event == "GOAL") {
+              message = '(' + item.payload.team_name + ')';
+            }
+
+            html += '<div><a href="#' + parseInt(item.matchtime) + '" onclick="event_click(event,' + item.matchtime + ');">' + time + '</a> - ' + item.event + ' ' + message + '</div>';
+
+            if (item.event == "MATCH_FINISH") {
+              max_time = item.matchtime;
+            } else if (item.event == "MATCH_START") {
+              var half_suffix = "";
+              if (item.payload.halftime == 1)
+                half_suffix = "st";
+              else if (item.payload.halftime == 2)
+                half_suffix = "nd";
+
+              document.getElementById('halftime').innerHTML = item.payload.halftime + half_suffix;
+            }
+          }
+          document.getElementById('game-events').innerHTML = html;
+        });
+      }
+
+      window.addEventListener("load", init, false);
+    </script>
+  </head>
+  <body>
+    <h1>RCJ Soccer Sim</h1>
+    <div class="container long">
+      <div class="row long">
+        <div class="col-sm-8 long">
+          <webots-view data-scene=sim22_5_01_-_2_-_A.P.x3d data-animation=sim22_5_01_-_2_-_A.P.json></webots-view>
+        </div>
+        <div class="col-sm-4 long">
+           <h3>Game events (<span id="halftime">-</span> halftime)</h3>
+           <div id="game-events"></div>
+         </div>
+      </div>
+    </div>
+    <p>A simple RCJ Soccer game simulated using Webots.<br/></p>
+  </body>
+</html>
