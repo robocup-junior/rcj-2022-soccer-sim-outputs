@@ -1,0 +1,36 @@
+{"datetime": "2022-08-02T14:37:36.446750Z", "matchtime": 0, "event": "KICKOFF", "payload": {"robot_name": "B3", "team_name": "B"}}
+{"datetime": "2022-08-02T14:37:36.452348Z", "matchtime": 0, "event": "MATCH_START", "payload": {"score_yellow": 0, "score_blue": 0, "total_match_time": 600, "team_name_yellow": "Apex", "team_name_blue": "Reset", "match_id": "sim22_6_1st_fin", "halftime": 1}}
+{"datetime": "2022-08-02T14:38:30.270809Z", "matchtime": 14.144000000017286, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-08-02T14:39:47.661040Z", "matchtime": 34.304000000041924, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-08-02T14:40:08.887479Z", "matchtime": 39.84000000004869, "event": "GOAL", "payload": {"team_name": "Reset", "score_yellow": 0, "score_blue": 1}}
+{"datetime": "2022-08-02T14:40:20.668462Z", "matchtime": 42.848000000052366, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-08-02T14:42:12.704024Z", "matchtime": 64.38400000007869, "event": "GOAL", "payload": {"team_name": "Reset", "score_yellow": 0, "score_blue": 2}}
+{"datetime": "2022-08-02T14:42:29.953309Z", "matchtime": 67.39200000008236, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-08-02T14:43:48.466110Z", "matchtime": 80.99200000009898, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-08-02T14:46:23.277860Z", "matchtime": 107.8400000000965, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-08-02T14:48:27.085906Z", "matchtime": 129.21600000008465, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-08-02T14:50:29.614370Z", "matchtime": 150.46400000007287, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-08-02T14:52:47.682766Z", "matchtime": 174.2080000000597, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-08-02T14:58:43.426395Z", "matchtime": 235.7760000000256, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-08-02T15:00:55.209837Z", "matchtime": 258.3040000000131, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-08-02T15:04:29.281323Z", "matchtime": 295.03999999999274, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-08-02T15:04:32.239022Z", "matchtime": 295.55199999999246, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y1"}}
+{"datetime": "2022-08-02T15:06:32.788123Z", "matchtime": 316.35199999998093, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-08-02T15:09:33.285980Z", "matchtime": 347.45599999996676, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-08-02T15:09:33.286502Z", "matchtime": 347.45599999996676, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-08-02T15:11:12.391249Z", "matchtime": 364.47999999997245, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-08-02T15:13:27.783958Z", "matchtime": 387.6479999999802, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-08-02T15:13:28.152425Z", "matchtime": 387.7119999999802, "event": "LACK_OF_PROGRESS", "payload": {"type": "robot", "robot_name": "Y2"}}
+{"datetime": "2022-08-02T15:13:31.857460Z", "matchtime": 388.3519999999804, "event": "INSIDE_PENALTY_FOR_TOO_LONG", "payload": {"type": "robot", "robot_name": "Y3"}}
+{"datetime": "2022-08-02T15:13:44.074872Z", "matchtime": 390.4959999999811, "event": "GOAL", "payload": {"team_name": "Reset", "score_yellow": 0, "score_blue": 3}}
+{"datetime": "2022-08-02T15:14:01.996269Z", "matchtime": 393.50399999998217, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-08-02T15:16:13.977790Z", "matchtime": 416.0639999999897, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-08-02T15:18:00.117175Z", "matchtime": 434.2719999999957, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-08-02T15:19:55.944422Z", "matchtime": 454.01600000000235, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-08-02T15:26:34.591235Z", "matchtime": 522.1120000000028, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-08-02T15:27:54.064185Z", "matchtime": 535.7760000000013, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-08-02T15:30:02.528601Z", "matchtime": 557.7279999999989, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-08-02T15:31:54.803562Z", "matchtime": 576.8959999999978, "event": "GOAL", "payload": {"team_name": "Reset", "score_yellow": 0, "score_blue": 4}}
+{"datetime": "2022-08-02T15:32:12.316036Z", "matchtime": 579.9039999999977, "event": "KICKOFF", "payload": {"robot_name": "Y3", "team_name": "Y"}}
+{"datetime": "2022-08-02T15:33:43.267087Z", "matchtime": 595.5199999999978, "event": "LACK_OF_PROGRESS", "payload": {"type": "ball"}}
+{"datetime": "2022-08-02T15:34:09.458877Z", "matchtime": 600.0319999999978, "event": "MATCH_FINISH", "payload": {"total_match_time": 600, "score_yellow": 0, "score_blue": 4, "team_name_yellow": "Apex", "team_name_blue": "Reset"}}
